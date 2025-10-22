@@ -1,7 +1,7 @@
 # Remember-NanaimoOnline-Ver4
 
 
-Prototype (Minimum Viable Product) from Nelson, Lan. Who are the former Nanaimo online players since the server's startup This project rebuilds the memory of the game.
+Prototype (Minimum Viable Product) from Nelson, Lan. Who are the former Nanaimo online players since the server's startup this project rebuilds the memory of the game.
 
 ---
 
@@ -14,7 +14,7 @@ Prototype (Minimum Viable Product) from Nelson, Lan. Who are the former Nanaimo 
 
 **【Project disclaimer in English】**
 
-Picture(s) comes from web-search-source (as known as Google Creative Commons Search). The ownership and copyright of picture(s) or original design are or is belong to certain companies or corps. I assert that such alleged infringement is permissible under "Fair use " principles in copyright laws. Homage / Archetype is a format of art that shows respect or dedication to something by direct use of original design ideas.
+Pictures come from web-search-source (as known as Google Creative Commons Search). The ownership and copyright of picture(s) or original design are or is belong to certain companies or corps. I assert that such alleged infringement is permissible under "Fair use " principles in copyright laws. Homage / Archetype is a format of art that shows respect or dedication to something by direct use of original design ideas.
 
 ~~Any of the user-created content is allowed to be created, but content should be shared in appropriate ways (SA) that are mentioned in part 2 in this book. Further, all of the user-created content should not be monetised or commercialised (NC).~~ 
 (Deleted is not acceptable for this version now.)
@@ -28,7 +28,9 @@ Picture(s) comes from web-search-source (as known as Google Creative Commons Sea
 【本作目的／目標】 
 本作制作的目的是想以模仿致敬方式， 重構原遊戲的一小部分，作回憶錄。 
 一小部分意思只是指， 把飛行、卡片收集兩項， 提取精要部分後，改編製成一個場景（Screen）的最簡可行產品 （Minimum Viable Product ）。 
-目標： 嘗試使用Unity製作； 與原作有20%到30%相近的作品，就叫完成。 增加挑戰：一個場景的遊戲，不設過場。 本作是一個公開的作品集， 在下方專案里程碑段落會提及到。
+目標： 嘗試使用Unity製作； 與原作有20%到30%相近的作品，就叫完成。 
+
+增加挑戰：一個場景的遊戲，不設過場。 本作是一個公開的作品集， 在下方專案里程碑段落會提及到。
 
 ---
 
@@ -38,7 +40,7 @@ Picture(s) comes from web-search-source (as known as Google Creative Commons Sea
 
 - #27 -- 集卡冊 介面製作及實裝
 - #28 -- 卡片現化(V) 集卡冊更新
-~~- #29/19Ex -- 傷害數字介面~~  (JS 插件已不再支援)
+- #29/19Ex -- 傷害數字介面
 - #30 -- 全屏攻擊/傷害
 - #31 -- JS 到 C# 程式碼轉換翻譯 及 修正問題
 - #32 -- 第四試行版(即 **最終版**)下載
